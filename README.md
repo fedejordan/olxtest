@@ -10,6 +10,12 @@ Esta aplicación contiene:
 * Controlador para buscar productos
 * Controlador para ver el resultado de la búsqueda
 
+### Adicionales ###
+
+* Custom cells para facilitar customización
+* Herencia: View controllers heredan de clase padre ParentViewController
+* Status bar con texto de color blanco
+
 ### Bibliotecas utilizadas ###
 
 * AFNetworking
