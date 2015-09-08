@@ -5,6 +5,7 @@ Esta aplicación se realizó para OLX, con objetivo de calificar para el puesto 
 ### Descripción ###
 
 Esta aplicación contiene:
+
 * Splash screen
 * Controlador para buscar productos
 * Controlador para ver el resultado de la búsqueda
