@@ -21,6 +21,7 @@
     [self.navigationController.navigationBar
      setTitleTextAttributes:@{NSForegroundColorAttributeName : [UIColor whiteColor]}];
     [self.navigationController.navigationBar setBarTintColor:[UIColor blueColor]];
+
 }
 
 @end

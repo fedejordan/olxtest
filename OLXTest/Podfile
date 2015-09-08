@@ -3,7 +3,6 @@
 
 target 'OLXTest' do
 
-pod 'TPKeyboardAvoiding'
 pod 'MBProgressHUD'
 pod "AFNetworking", "~> 2.0"
 
